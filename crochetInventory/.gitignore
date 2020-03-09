@@ -1,0 +1,11 @@
+.idea
+*.pyc
+*~
+__pycache__
+myvenv
+myenv
+venv
+*.sqlite3
+/static
+local_settings.py
+.DS_Store
